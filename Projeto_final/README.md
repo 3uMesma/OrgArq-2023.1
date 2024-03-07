@@ -4,7 +4,7 @@ Um Recurso Educacional Aberto (REA) está baseado nos princípios de acesso livr
 
 Notamos durante a nossa pesquisa que ao pesquisar no Google por “dependência de dados em pipeline”, poucos sites eram recomendados e os que eram eram materiais de universidade ou artigos científicos, enquanto que ao procurar por “Data Hazards Pipeline” muito mais sites e outras fontes de informação apareciam. Isso demonstra a falta de materiais abertos sobre o tema em português, fortalecendo a importância da nossa escolha de tema para o site.
 
-** IMPORTANTE: ** Esse foi um trabalho em grupo que pode ser visto aqui: https://github.com/arthur-qm/SSC0902---Organiza-o-e-Arquitetura-de-Computadores-REA-. Ele foi clonado para meu github pessoal também por questão de organização. 
+*IMPORTANTE:* Esse foi um trabalho em grupo que pode ser visto aqui: https://github.com/arthur-qm/SSC0902---Organiza-o-e-Arquitetura-de-Computadores-REA-. Ele foi clonado para meu github pessoal também por questão de organização. 
 
 ## Desenvolvimento
 Escolhemos JavaScript para desenvolver nosso código devido a facilidade de integração com o site, dado que é uma linguagem já bastante usada no desenvolvimento web.
