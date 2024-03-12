@@ -1,6 +1,7 @@
 # OrgArq-2023.1
 
 Repositório criado para armazenar os trabalhos desenvolvidos na discipĺinas de Organização e Arquitetura de Computadores
+
 **Responsável:** Sarita Mazzini Bruschi
 
 ## Programa
